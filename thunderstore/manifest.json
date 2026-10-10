@@ -1,6 +1,6 @@
 {
   "name": "SpawnTracker",
-  "version_number": "0.1.0",
+  "version_number": "0.1.1",
   "website_url": "https://github.com/Nnikoloo/SpawnTracker-Valheim-",
   "description": "Shows nearby creature spawners (crypts, tar pits, nests, bone piles...) and how long until they respawn. Press F8 to toggle.",
   "dependencies": [

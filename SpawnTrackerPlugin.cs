@@ -13,7 +13,7 @@ namespace SpawnTracker
     {
         public const string Guid = "nnikoloo.SpawnTracker";
         public const string ModName = "SpawnTracker";
-        public const string Version = "0.1.0";
+        public const string Version = "0.1.1";
 
         // Private game fields (see CreatureSpawner / SpawnArea in assembly_valheim.dll)
         private static readonly AccessTools.FieldRef<CreatureSpawner, ZNetView> CreatureSpawnerView =
